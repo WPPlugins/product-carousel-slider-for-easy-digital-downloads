@@ -1,0 +1,278 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Blank Pot v1.0.0\n"
+"POT-Creation-Date: 2015-11-22 23:38+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your Name <you@example.com>\n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: eddpcs-main.php:18
+msgid "Sorry! This is not your place!"
+msgstr ""
+
+#: eddpcs-main.php:78
+msgid "Upgrade"
+msgstr ""
+
+#: eddpcs-main.php:79
+msgid "Support"
+msgstr ""
+
+#: eddpcs-metabox.php:13
+msgctxt "product-carousel-slider-for-easy-digital-downloads"
+msgid "Easy Digital Downloads Products Carousel Sliders"
+msgstr ""
+
+#: eddpcs-metabox.php:14
+msgctxt "product-carousel-slider-for-easy-digital-downloads"
+msgid "Easy Digital Downloads Products Carousel Slider"
+msgstr ""
+
+#: eddpcs-metabox.php:15 eddpcs-metabox.php:16
+msgctxt "product-carousel-slider-for-easy-digital-downloads"
+msgid "Edd Carousel"
+msgstr ""
+
+#: eddpcs-metabox.php:17
+msgctxt "product-carousel-slider-for-easy-digital-downloads"
+msgid "Add New"
+msgstr ""
+
+#: eddpcs-metabox.php:18
+msgid "Add New Carousel Slider"
+msgstr ""
+
+#: eddpcs-metabox.php:19
+msgid "New Carousel Slider"
+msgstr ""
+
+#: eddpcs-metabox.php:20
+msgid "Edit Carousel Slider"
+msgstr ""
+
+#: eddpcs-metabox.php:21
+msgid "View Carousel Slider"
+msgstr ""
+
+#: eddpcs-metabox.php:22
+msgid "Search Carousel Slider"
+msgstr ""
+
+#: eddpcs-metabox.php:23
+msgid "Parent Carousel Sliders:"
+msgstr ""
+
+#: eddpcs-metabox.php:24
+msgid "No carousel slider found."
+msgstr ""
+
+#: eddpcs-metabox.php:25
+msgid "No carousel slider found in Trash."
+msgstr ""
+
+#: eddpcs-metabox.php:52
+msgid "Settings & Shortcode Generator"
+msgstr ""
+
+#: eddpcs-metabox.php:100
+msgid "General Settings"
+msgstr ""
+
+#: eddpcs-metabox.php:101
+msgid "Slider Settings"
+msgstr ""
+
+#: eddpcs-metabox.php:102
+msgid "Style Settings"
+msgstr ""
+
+#: eddpcs-metabox.php:114
+msgid "Display Header"
+msgstr ""
+
+#: eddpcs-metabox.php:118 eddpcs-metabox.php:132 eddpcs-metabox.php:167
+#: eddpcs-metabox.php:212 eddpcs-metabox.php:227 eddpcs-metabox.php:263
+msgid "Yes"
+msgstr ""
+
+#: eddpcs-metabox.php:119 eddpcs-metabox.php:133 eddpcs-metabox.php:168
+#: eddpcs-metabox.php:213 eddpcs-metabox.php:228 eddpcs-metabox.php:262
+msgid "No"
+msgstr ""
+
+#: eddpcs-metabox.php:121
+msgid "Display carousel slider header or not"
+msgstr ""
+
+#: eddpcs-metabox.php:128
+msgid "Display Navigation Arrows"
+msgstr ""
+
+#: eddpcs-metabox.php:141
+msgid "Title"
+msgstr ""
+
+#: eddpcs-metabox.php:144
+msgid "LATEST PRODUCTS"
+msgstr ""
+
+#: eddpcs-metabox.php:145
+msgid "Carousel slider title"
+msgstr ""
+
+#: eddpcs-metabox.php:152
+msgid "Total Products"
+msgstr ""
+
+#: eddpcs-metabox.php:156
+msgid "How many products to display in the carousel slider"
+msgstr ""
+
+#: eddpcs-metabox.php:163
+msgid "Image Resize & Crop"
+msgstr ""
+
+#: eddpcs-metabox.php:170
+msgid "Images auto resize and crop"
+msgstr ""
+
+#: eddpcs-metabox.php:177
+msgid "Image Width"
+msgstr ""
+
+#: eddpcs-metabox.php:181
+msgid "Image cropping width"
+msgstr ""
+
+#: eddpcs-metabox.php:188
+msgid "Image Height"
+msgstr ""
+
+#: eddpcs-metabox.php:192
+msgid "Image cropping height"
+msgstr ""
+
+#: eddpcs-metabox.php:208
+msgid "Auto Play"
+msgstr ""
+
+#: eddpcs-metabox.php:215
+msgid "Slider would automatically play or not"
+msgstr ""
+
+#: eddpcs-metabox.php:223
+msgid "Stop on Hover"
+msgstr ""
+
+#: eddpcs-metabox.php:230
+msgid "Stop autoplay on mouse hover or not"
+msgstr ""
+
+#: eddpcs-metabox.php:237
+msgid "Slide Speed"
+msgstr ""
+
+#: eddpcs-metabox.php:247
+msgid "Items"
+msgstr ""
+
+#: eddpcs-metabox.php:251
+msgid ""
+"Maximum amount of items to display at a time with the widest browser "
+"width."
+msgstr ""
+
+#: eddpcs-metabox.php:258
+msgid "Pagination"
+msgstr ""
+
+#: eddpcs-metabox.php:265
+msgid "Show pagination or not"
+msgstr ""
+
+#: eddpcs-metabox.php:282
+msgid "Title Font Size"
+msgstr ""
+
+#: eddpcs-metabox.php:292
+msgid "Title Font Color"
+msgstr ""
+
+#: eddpcs-metabox.php:302
+msgid "Product Category Font Size"
+msgstr ""
+
+#: eddpcs-metabox.php:312
+msgid "Product Category Font Color"
+msgstr ""
+
+#: eddpcs-metabox.php:322
+msgid "Product Category Hover Font Color"
+msgstr ""
+
+#: eddpcs-metabox.php:332
+msgid "Product Title Font Size"
+msgstr ""
+
+#: eddpcs-metabox.php:342
+msgid "Product Title Font Color"
+msgstr ""
+
+#: eddpcs-metabox.php:352
+msgid "Product Title Hover Font Color"
+msgstr ""
+
+#: eddpcs-metabox.php:362
+msgid "\"Add to Cart\" Button Font Size"
+msgstr ""
+
+#: eddpcs-metabox.php:372
+msgid "\"Add to Cart\" Font Color"
+msgstr ""
+
+#: eddpcs-metabox.php:382
+msgid "\"Add to Cart\" Button Background Color"
+msgstr ""
+
+#: eddpcs-metabox.php:392
+msgid "\"Add to Cart\" Button Hover Background Color"
+msgstr ""
+
+#: eddpcs-metabox.php:402
+msgid "\"Add to Cart\" Hover Font Color"
+msgstr ""
+
+#: eddpcs-metabox.php:418
+msgid "Shortcode"
+msgstr ""
+
+#: eddpcs-metabox.php:419
+msgid "Use following shortcode to display the Carousel Slider anywhere:"
+msgstr ""
+
+#: eddpcs-metabox.php:422
+msgid "If you need to put the shortcode in code/theme file, use this:"
+msgstr ""
+
+#: eddpcs-shortcodes.php:159
+msgid "No products found"
+msgstr ""
